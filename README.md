@@ -54,7 +54,7 @@ cp .env.example .env
 
 1. Start the application:
 ```bash
-streamlit run app/main.py
+streamlit run main.py
 ```
 
 2. Select your data source (Google Sheets or CSV)
@@ -86,6 +86,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Demonstration
 
-https://www.loom.com/share/68f008635ae04c7ea52917147d1c5080
+https://www.loom.com/share/07a11aa92fa84b71a677b52a124268fd?sid=313f9a9e-316d-43fc-ba82-06ab7325ac33
 
 Don't know how to blur the code on loom sorry for that 
